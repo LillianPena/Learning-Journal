@@ -1,0 +1,37 @@
+--------------------------------------------------------------------
+8/31/2026
+-------------------------------------------------------------------
+there is no simple definition for AI
+
+AI is a computer that produces a certian response due to certian prompts from a human user
+not very often, sometimes i will ask it to find something for me
+
+--------------------------------------------------------------------
+9/1/2026
+--------------------------------------------------------------------
+LLM = Large Language Model
+
+ai is an algorithm that takes the most likely answer but llms dont
+size of ai model = how much data it has 
+CEOs are dumb
+LLMs are dumb
+started with german and english, did not train it to do all it can
+ai is bias because we have bias
+bounding box = used in image or video tagging,
+general ai does not exist
+
+token = pay for what you use, avarage token is 4 
+ai is very expensive
+-------------------------------------------------------------------------
+9/2/2026
+-------------------------------------------------------------------------
+downloading everything
+-------------------------------------------------------------------------
+9/3/2026
+-------------------------------------------------------------------------
+free software = open sorce = can look at code
+chatgpt is not open sorce
+ai costs alot
+data centers use alot of energy, noise polution, uses alot of water
+turning on nucular power plants for ai
+tokens are cheaper = used more = still expensive
