@@ -116,3 +116,6 @@ The whole units notes will be looked at the end of the unit.
 | Retention  | How many of the topics covered are represented in the notes                     | 3pts   |
 | Completion | How well where the topics explored though the notes.                            | 3pts   |
 | Creativity | How efficiently where digrams and other learning tools implemented in the notes | 4pts   |
+
+
+<!-- Testing -->
