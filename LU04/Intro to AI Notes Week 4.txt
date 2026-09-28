@@ -1,0 +1,20 @@
+9/21/2026
+-------------------------------------------------------------------------------
+presented ai slop
+server = computer with no screen
+motherboard = connects to everything, curcit board
+power supply = makes power
+CPU = sand math, everything connects via the CPU
+PCIe and NVME = connectors
+network cards = space
+ram is very expensive now
+--------------------------------------------------------------------------------------
+9/22/2026
+-----------------------------------------------------------------------------------
+hypervisors:
+type 1/BM
+type 2 
+------------------------------------------------------------------------------------
+9/23/2026
+------------------------------------------------------------------------------------
+worked on VB
