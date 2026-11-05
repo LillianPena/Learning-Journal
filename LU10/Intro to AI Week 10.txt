@@ -1,0 +1,80 @@
+11/2/2026
+-------------------------------------------------------------------------------------------------------------------------------------------------
+be careful or ai will delete everything
+AI governance = making sure ai can't delete everything
+-------------------------------------------------------------------------------------------------------------------------------------------------
+11/3/2026
+-------------------------------------------------------------------------------------------------------------------------------------------------
+bash scripting??
+-------------------------------------------------------------------------------------------------------------------------------------------------
+11/4/2026
+-------------------------------------------------------------------------------------------------------------------------------------------------
+working on scripting
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+other stuff with other projects vvv
+
+Sleeping under quiet soil and stone,
+Just a little whisper, all alone.
+Waiting for a whisper of the rain,
+Pushing gently up, without a strain.
+Uncurling a tender little leaf,
+Finding peace beneath.
+
+Slow down, let the sunshine in,
+That's where all the quiet days begin.
+Rooted deep, breathing with the breeze,
+Finding all the magic in the trees.
+Just a little green upon the sill,
+Growing soft and still.
+
+Sixty drops of water in a cup,
+Drinking all the morning brightness up.
+Turning light to life so slow and sweet,
+Without a rush, without a single beat.
+
+Just breathe it in...
+Let the quiet win.
+Rooted and deep,
+While the shadows sleep.
+
+
+
+
+
+
+
+
+final project ideas:
+needs: local ai, user interface, ia making something
+
+ai that makes something when prompted, 
+
+give ai a pic of a flower and it will tell yoy what kind it is
+plant identifier:
+use javaFX to make user interface
+train ai to identify plants
+connect them
+
+
+
+
+ducks
+
+
+
+docker run -d --name mysql-students_db -p 3306:3306 -e MYSQL_ROOT_PASSWORD=password -e MYSQL_DATABASE=students_db mysql:latest
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+I was born in arizona but my parents moved my siblings and I to a sleepy little town in iowa and rasied us there for most of our lives. later on, the rest of my family moved to iowa as well! growing up in such a quite town doesnt leave me with much to tell about myself, but im hoping to change that as i strike out on my own. what i can say about myself is im not prone to taking the easy way when doing something im passionte about.   
